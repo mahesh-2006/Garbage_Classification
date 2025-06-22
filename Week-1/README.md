@@ -1,8 +1,5 @@
 # Garbage Classification - Week 1 Report
 
-## 🔍 Project Overview
-This project is part of a 4-week internship focused on building and improving an image classification model for garbage type detection. The model aims to classify images into multiple waste categories using deep learning.
-
 ## ✅ Week 1 Goals
 - Set up the dataset pipeline
 - Build a baseline model using EfficientNetV2B2
